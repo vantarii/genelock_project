@@ -6,7 +6,7 @@ Developed for the **Come Build with AI Hackathon (2026)**.
 
 ---
 
-## 💡 About The Project
+## About The Project
 
 As global digital data creation explodes, conventional storage media (HDDs, SSDs) are reaching physical limits. DNA data storage offers unprecedented density and longevity. However, the biological processes of DNA synthesis and sequencing can introduce mutations and errors, corrupting the stored digital payload.
 
@@ -14,7 +14,7 @@ As global digital data creation explodes, conventional storage media (HDDs, SSDs
 
 ---
 
-## 🔥 Key Features
+## Key Features
 
 - **Binary to Quaternary Encoding**: Converts digital text into valid DNA nucleotide sequences ($A, T, C, G$).
 - **Cryptographic Guardrail**: Generates a **SHA-256** cryptographic fingerprint of the biological sequence before synthesis.
@@ -22,10 +22,3 @@ As global digital data creation explodes, conventional storage media (HDDs, SSDs
 - **Integrity Alert System**: Instant detection of sequence corruption upon reading/decoding.
 
 ---
-
-## 🚀 Quick Start
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/VOTRE_PSEUDO/genelock_project.git](https://github.com/VOTRE_PSEUDO/genelock_project.git)
-   cd genelock_project# 🧬 GeneLock — DNA Data Storage & Integrity Protocol
